@@ -47,6 +47,3 @@ function fibsRec(num, arr = [], k = 2, i = 0, j = 1) {
 		}
 	}
 }
-
-fibs(78)
-fibsRec(78)
